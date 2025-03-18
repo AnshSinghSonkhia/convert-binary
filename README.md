@@ -1,8 +1,7 @@
 # Convert Binary  
 An NPM package to convert various data types to and from binary representation. Easily convert numbers, strings, hex, octal, and more to and from binary format.  
 
-<code><img height="30" src="https://img.shields.io/badge/NPM-111111?style=for-the-badge&logo=npm&logoColor=#c63635"></code>  
-<code><img height="30" src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img height="30" src="https://img.shields.io/badge/NPM-111111?style=for-the-badge&logo=npm&logoColor=#c63635"></code>  <code><img height="30" src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 
 ## **Features**  
 ✅ Convert numbers, strings, hex, and more to binary  
