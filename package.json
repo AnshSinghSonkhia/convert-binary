@@ -1,0 +1,41 @@
+{
+  "name": "convert-binary",
+  "version": "1.0.0",
+  "description": "An NPM package to convert various data types to and from binary representation",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/convert-binary.git"
+  },
+  "keywords": [
+    "binary",
+    "conversion",
+    "number",
+    "string",
+    "hex",
+    "octal",
+    "boolean",
+    "float",
+    "padBinary",
+    "padding",
+    "chunk",
+    "invert",
+    "XOR",
+    "AND",
+    "OR",
+    "shiftBinaryLeft",
+    "shiftBinaryRight"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AnshSinghSonkhia/convert-binary/issues"
+  },
+  "homepage": "https://github.com/AnshSinghSonkhia/convert-binary#readme"
+}
